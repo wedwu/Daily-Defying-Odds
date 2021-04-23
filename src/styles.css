@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  /* padding: 15px; */
+  background: #000 !important;
+}
+.light {
+  background: #FFF;
+}
+.dark {
+  background: #000;
+}
+.hero {
+  margin-top: -170px;
+  margin-left: 240px;
+}
+a.nav-link,
+.navbar {
+  background: #000 !important;
+  color: rgb(169 169 169 / 50%) !important;
+  font-size: 150% !important;
+}
+a.nav-link:hover {
+  color: #ccc !important;
+  font-size: 150% !important;
+}
+.right-margin {
+  margin-right: 20px;
+}
+h2,
+p {
+  color: #fff !important;
+}
